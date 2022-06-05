@@ -7,12 +7,13 @@ And allows users to explore the data with few clicks.
 <table>
  <tr>
  <td class="left"><img src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" width="250" height="500" /></td>
- <td class="middle"></td>
+ <td class="middle">
+  <td class="left"><img src="https://user-images.githubusercontent.com/11722763/172072266-dda4b5ab-1151-4a32-aea2-7c84b686b464.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172072266-dda4b5ab-1151-4a32-aea2-7c84b686b464.png" width="250" height="500" /></td>
+ </td>
  <td class="right"><img src="https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png" width="250" height="500" />
 </td>
- </tr> 
+ </tr>
 </table>
-
 
 ### Architecture ###
 This project has developed with the Clean Architecture Pattern uncoupling the code in four layers, this make it easy at the time of mantain, test and scale the code exponentialy.
