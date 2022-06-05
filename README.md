@@ -1,5 +1,4 @@
 # brastlewarkApp
-=================
 ### Analysis and Development ### 
 This is one of these times, our heroes just arrived at a Gnome town called Brastlewark. To
 facilitate trade with the local population they need an easy way to browse all the inhabitants
