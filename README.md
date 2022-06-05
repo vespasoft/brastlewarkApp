@@ -1,12 +1,10 @@
 # brastlewarkApp
 ### Analysis and Development ### 
-This is one of these times, our heroes just arrived at a Gnome town called Brastlewark. To
-facilitate trade with the local population they need an easy way to browse all the inhabitants
-details. We&#39;ve found a server providing all the census data of Brastlewark at the following
-
 This is a single application written in Kotlin that show a citizens list of a Gnome town called Brastlewark. 
 The app has been designed for get all local polulation data in an easy way giving an awesome user experience,
 And allows users to explore the data with few clicks.
+
+<img src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" width="200" height="400" />
 
 ![item_selected](https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png=250x250)
 ![Screenshot_20220605_234422](https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png=250x250)
