@@ -4,8 +4,15 @@ This is a single application written in Kotlin that show a citizens list of a Gn
 The app has been designed for get all local polulation data in an easy way giving an awesome user experience,
 And allows users to explore the data with few clicks.
 
-<img src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" width="250" height="500" />
-<img src="https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png" width="250" height="500" />
+<table>
+ <tr>
+ <td class="left"><img src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071885-581614f4-b912-4e4f-b854-a050ffd4d20f.png" width="250" height="500" /></td>
+ <td class="middle"></td>
+ <td class="right"><img src="https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png" data-canonical-src="https://user-images.githubusercontent.com/11722763/172071892-3105b339-9358-4190-8e25-87ce939ccdc8.png" width="250" height="500" />
+</td>
+ </tr> 
+</table>
+
 
 ### Architecture ###
 This project has developed with the Clean Architecture Pattern uncoupling the code in four layers, this make it easy at the time of mantain, test and scale the code exponentialy.
